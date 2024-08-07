@@ -2,3 +2,4 @@ idly flour
 add ghee
 extra ghee
 add ragi powder
+add vegs
